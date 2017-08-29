@@ -1,0 +1,66 @@
+.logo{
+	margin-top:-7.5%;
+}
+.circular-img{
+	width: 150px;
+	height:150px;
+	border-radius:100%;
+}
+.circulo-blue{
+	display: inline-block;
+	width:15px;
+	height:15px;
+    border-radius: 100%;
+    background-color: blue;
+    margin-top: 9%;
+    margin-left: 3%;
+}
+.alinear{
+	display: inline;
+	margin-left: 3%;
+	top: -8% !important;
+}
+.down{
+	margin-top: 8%;
+}
+.borde{
+	border: 1px solid gray;
+}
+.left{
+	margin-left:70%;
+}
+.subir{
+	margin-top: -30%;
+}
+.arriba{
+	margin-top:-8%;
+}
+.alerta{
+	width: 300px;
+	height:300px;
+	border-left: 1px solid gray;
+}
+.bajar{
+	margin-top:16%;
+	margin-left: 4%;
+}
+#color{
+	width: 100%;
+	height:35px;
+	background-color: #B2BABB !important;
+}
+.peq{
+	width: 450px;
+	height: 100px;
+	border: 1px solid black;
+}
+.list{
+   list-style: none;
+   margin-top: 6%;
+
+}
+.list li{
+	display:inline-block;
+	border-left:1px solid black;
+	margin-left:4%;
+}
